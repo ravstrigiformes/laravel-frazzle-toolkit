@@ -2,7 +2,7 @@
 
 namespace FrazzleToolkit\Services;
 
-class UserService
+class FrazzleService
 {
     public function greet(string $name): string
     {

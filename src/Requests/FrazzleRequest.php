@@ -4,7 +4,7 @@ namespace FrazzleToolkit\Requests;
 
 use Illuminate\Http\Request;
 
-class CustomRequest extends Request
+class FrazzleRequest extends Request
 {
     /**
      * Returns only validated input based on allowed fields.

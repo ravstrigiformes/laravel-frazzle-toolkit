@@ -2,7 +2,7 @@
 
 namespace FrazzleToolkit\DTOs;
 
-class UserDto
+class FrazzleDto
 {
     public function __construct(
         public string $name,
