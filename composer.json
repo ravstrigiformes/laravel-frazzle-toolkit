@@ -1,0 +1,13 @@
+{
+  "name": "ravidelle/laravel-frazzle-toolkit",
+  "description": "Reusable classes (DTOs, Services, etc.) for Laravel projects.",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "FrazzleToolkit\\": "src/"
+    }
+  },
+  "require": {
+    "illuminate/http": "^12.10"
+  }
+}

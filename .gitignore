@@ -1,0 +1,11 @@
+/vendor
+
+composer.lock
+
+/.phpunit.result.cache
+
+# VSCode
+.vscode/
+
+# PHPStorm
+.idea/
